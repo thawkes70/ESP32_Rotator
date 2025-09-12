@@ -19,8 +19,8 @@ const char* HARDWARE_ID = "ESP32 Rotator";
 const char* FIRMWARE_VERSION = "v1.2.0";  // update this with each firmware release
 
 // === Wi-Fi Credentials ===
-const char* ssid = "Nothing-To-See-Here";
-const char* password = "!Beer$Clam?";
+const char* ssid = "";
+const char* password = "";
 
 // === TCP Server ===
 WiFiClient client;
